@@ -12,3 +12,5 @@ You can edit the .html files wich you can create by going to the website "https:
 0.2
 Added a Background Image and Changed the Text Font color from Black to White
 Changed the GitHub Logo at the Bottom of the Site
+
+*from now on no updates will arrive not planned because i need to focuse on my gameserver*
